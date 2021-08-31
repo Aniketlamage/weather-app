@@ -32,11 +32,6 @@ ng serve
 
 
 ## Screenshots
+![Screenshot (4)](https://user-images.githubusercontent.com/43819612/131515681-c117ccaa-e7ad-41ea-bb28-e15ac62c5502.png)
 
-|
-<img src="https://i.ibb.co/PTVKZN2/Screenshot-4.png"width="450">
-|  
-<img src="https://i.ibb.co/k5BqxSL/Screenshot-5.png"width="450">
-|
-
-
+![Screenshot (5)](https://user-images.githubusercontent.com/43819612/131515502-62371d8f-0dc1-4d77-a808-2bf97fb30c53.png)
