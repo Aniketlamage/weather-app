@@ -24,7 +24,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Running the app
 
 ```bash
-git clone https://github.com/Aniketlamage/angularbasics-weather-app.git
+git clone https://github.com/Aniketlamage/weather-app.git
 cd weather-app
 npm install
 ng serve
